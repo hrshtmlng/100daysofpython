@@ -6,4 +6,4 @@ answer = myBill / numberOfPeople
 
 answer = round(answer,2)
 
-print(answer)
+print("You all owe",answer)
