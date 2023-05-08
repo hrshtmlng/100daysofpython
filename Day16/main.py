@@ -6,7 +6,7 @@ while True:
     break
 print("Aww, I was having a good time 😭")
   
-#   another one
+#   error challenge
 
 
 counter = 0
@@ -19,3 +19,13 @@ while True:
   if addAnother == "no":
     break
 print("Bye!")
+
+# error challeng2
+
+while True:
+  color = input("Enter a color: ")
+  if color == "red":
+    break
+  else:
+    print("Cool color!")
+print("I don't like red")
