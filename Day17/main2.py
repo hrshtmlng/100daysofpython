@@ -8,3 +8,6 @@ while True:
     continue
   else:
     print("Ahh! You're a genius, you've won")
+   
+print("The game is over, you've failed!")
+
